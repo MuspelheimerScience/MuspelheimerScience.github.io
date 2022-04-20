@@ -20,7 +20,7 @@ title                    : "LIBRE_hub"
 title_separator          : "-"
 subtitle                 : # Latin American Hub for Bioimaging through Open Hardware
 name                     : "Latin American Hub for Bioimaging through Open Hardware"
-description              : "Bioimaging through open spource hardware."
+description              : "Bioimaging through open spource hardware"
 url                      : # the base hostname & protocol for your site e.g. "https://muspelheimerscience.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "MuspelheimerScience/MuspelheimerScience.github.io"
