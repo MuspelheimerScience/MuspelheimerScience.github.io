@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LIBRE_hub Latin"
+title                    : "LIBRE_hub"
 title_separator          : "-"
 subtitle                 : # Latin American Hub for Bioimaging through Open Hardware
 name                     : "Latin American Hub for Bioimaging through Open Hardware"
