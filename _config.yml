@@ -105,8 +105,7 @@ author:
   name             : "Latin American Hub for Bioimaging through Open Hardware"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bioimaging for the XXIth Century."
-  location         : "Santiago de Chile,
-                      Chile"
+  location         : "Santiago de Chile, Chile"
   email            : "contacto@libre_hub.org"
   links:
     - label: "Email"
