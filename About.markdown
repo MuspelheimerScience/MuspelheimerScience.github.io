@@ -1,14 +1,14 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Acerca de LIBRE_hub'
+date: 2022-05-01
+permalink: /posts/2022/05/blog-post-1/
 tags:
-  - cool posts
+  - ¿Qué es Libre hub?
   - category1
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+LIBRE_hub es una plataforma de aprendizaje que enlaza comunidades de Latino America .
 
 Headings are cool
 ======
